@@ -17,8 +17,9 @@ You should use the following two datasets:
 To download the dataset follow the link `Download in CSV` at the bottom of the page.
 
 2. Data on non-pharmaceutical interventions available at the
-[European Centre for Disease Prevention and Control (ECDC)](https://www.ecdc.europa.eu/en/publications-data/download-data-response-measures-covid-19). To download the dataset follow
-the link `Download data on country response measures to COVID-19`.
+[European Centre for Disease Prevention and Control (ECDC)](https://www.ecdc.europa.eu/en/publications-data/download-data-response-measures-covid-19).
+To download the dataset follow the link
+`Download data on selected national public response measures`.
 
 ## Deliverables
 
