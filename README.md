@@ -4,7 +4,8 @@
 
 ## Summary
 
-In this project you should analyse data to attempt answering the following question:
+In this project you should analyse data to attempt answering the following
+question:
 
 > Do non-pharmaceutical interventions reduce the spread of COVID19?
 
